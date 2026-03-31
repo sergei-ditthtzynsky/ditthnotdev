@@ -1,14 +1,62 @@
-#  ⋆˙⟡ Hello! Welcome to My Github Profile!
+<p align="center">
+  <img alt="title" src="https://raw.githubusercontent.com/zephyrinee/zephyrinee/refs/heads/main/images.png" />
+</p>
 
-I`am Newbie For :
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=flat-square&logo=framework7&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=flat-square&logo=CrateDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-
-Socials :
-
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://tiktok.com/@ditthtzy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@sergei.ditthtzynsky) 
+<p align="center">
+  <b>Ahmad Azizie Adnan</b><br>
+  Automation Bot Developer focused on WhatsApp & Telegram
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kayzennotdev&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <b>🛠️ Skills & Technologies</b>
+</p>
+
+<p align="left">
+  <img height="36" src="https://skillicons.dev/icons?i=js,ts,c,cs,html,css" />
+</p>
+
+---
+
+<p align="left">
+  <b>👤 About Me</b>
+</p>
+
+<ul>
+  <li><b>Automation Bot Developer</b> focused on building and maintaining WhatsApp & Telegram bots</li>
+  <li>Experienced in developing <b>automation systems</b> and <b>multi-feature bots</b></li>
+  <li>Building <b>custom messaging solutions</b> using <b>JavaScript and Python</b></li>
+  <li>Strong focus on <b>backend logic</b>, command-based systems, and API integrations</li>
+  <li>Projects mainly target <b>real-world use cases</b> such as moderation, utilities, and auto-response systems</li>
+  <li>Emphasis on <b>clean code</b>, <b>stability</b>, and <b>scalable automation</b></li>
+</ul>
+
+---
+
+<p align="left">
+  <b>🎯 Current Focus</b>
+</p>
+
+<ul>
+  <li>Developing scalable and reliable WhatsApp & Telegram bot systems</li>
+  <li>Improving automation workflows and command-based architectures</li>
+  <li>Building custom bot solutions for real-world messaging needs</li>
+  <li>Enhancing bot performance, stability, and maintainability</li>
+</ul>
+
+---
+
+<p align="left">
+  <b>🚀 Project Highlights</b>
+</p>
+
+<ul>
+  <li><b>Multi-Feature WhatsApp Bot</b> – Command system, auto-reply, moderation tools, and API integration</li>
+  <li><b>Telegram Automation Bot</b> – Messaging automation, user interaction handling, and custom utilities</li>
+  <li><b>Bot Workflow Engine</b> – Modular backend logic for scalable and maintainable bot development</li>
+  <li><b>Custom Messaging Tools</b> – Tailored bot solutions for specific automation requirements</li>
+</ul>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00c853,100:0a8f3c&section=footer" />

@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="title" src="https://raw.githubusercontent.com/zephyrinee/zephyrinee/refs/heads/main/images.png" />
+  <img alt="title" src="https://raw.githubusercontent.com/sergei-ditthtzynsky/ditthnotdev/refs/heads/main/images.png" />
 </p>
 
 <p align="center">
-  <b>Ahmad Azizie Adnan</b><br>
+  <b>Radithya Atha R</b><br>
   Automation Bot Developer focused on WhatsApp & Telegram
 </p>
 

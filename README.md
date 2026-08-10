@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="title" src="https://raw.githubusercontent.com/sergei-ditthtzynsky/ditthnotdev/refs/heads/main/images.png" />
+  <img alt="title" src="https://raw.githubusercontent.com/sergei-ditthtzynsky/ditthnotdev/refs/heads/main/image.png" />
 </p>
 
 <p align="center">
